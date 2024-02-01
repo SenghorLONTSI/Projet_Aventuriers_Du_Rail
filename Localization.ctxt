@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Localization
+comment1.params=
+comment1.target=Localization()
+comment2.params=
+comment2.target=java.util.Locale\ getLocale()
+comment2.text=\r\n\ Returns\ the\ Locale\ object\ that\ is\ associated\ with\ ControlsFX.\r\n\ \r\n\ @return\ the\ global\ ControlsFX\ locale\r\n
+comment3.params=newLocale
+comment3.target=void\ setLocale(java.util.Locale)
+comment3.text=\r\n\ Sets\ locale\ which\ will\ be\ used\ as\ ControlsFX\ locale\r\n\ \r\n\ @param\ newLocale\r\n\ \ \ \ \ \ \ \ \ \ \ \ null\ is\ allowed\ and\ will\ be\ interpreted\ as\ default\ locale\r\n
+comment4.params=
+comment4.target=java.util.ResourceBundle\ getLocaleBundle()
+comment5.params=key
+comment5.target=java.lang.String\ getString(java.lang.String)
+comment5.text=\r\n\ Returns\ a\ string\ localized\ using\ currently\ set\ locale\r\n\ \r\n\ @param\ key\ resource\ bundle\ key\r\n\ @return\ localized\ text\ or\ formatted\ key\ if\ not\ found\r\n
+comment6.params=text
+comment6.target=java.lang.String\ asKey(java.lang.String)
+comment6.text=\r\n\ Converts\ text\ to\ localization\ key,\r\n\ currently\ by\ prepending\ it\ with\ the\ KEY_PREFIX\r\n\ \r\n\ @param\ text\r\n\ @return\ localization\ key\r\n
+comment7.params=text
+comment7.target=boolean\ isKey(java.lang.String)
+comment7.text=\r\n\ Checks\ if\ the\ text\ is\ a\ localization\ key\r\n\ \r\n\ @param\ text\r\n\ @return\ true\ if\ text\ is\ a\ localization\ key\r\n
+comment8.params=text
+comment8.target=java.lang.String\ localize(java.lang.String)
+comment8.text=\r\n\ Tries\ to\ localize\ the\ text.\ If\ the\ text\ is\ a\ localization\ key\ -\ and\ attempt\ will\ be\ made\ to\ \r\n\ use\ it\ for\ localization,\ otherwise\ the\ text\ is\ returned\ as\ is\r\n\ \r\n\ @param\ text\r\n\ @return\r\n
+numComments=9

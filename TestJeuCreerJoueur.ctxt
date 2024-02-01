@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestJeuCreerJoueur
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testeJeuCreerJoueursInitialisation()
+comment2.text=\r\n\ @since\ Incr\u00C3\u00A9ment\ 2\r\n
+comment3.params=
+comment3.target=void\ testeJeuCreerJoueursJoueurCourant()
+comment3.text=\r\n\ @since\ Incr\u00C3\u00A9ment\ 2\r\n
+numComments=4

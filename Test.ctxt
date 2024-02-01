@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=result\ description
+comment1.target=void\ assertTrue(boolean,\ java.lang.String)
+comment1.text=\r\n\ V\u00C3\u00A9rifie\ que\ le\ r\u00C3\u00A9sultat\ donn\u00C3\u00A9\ d'une\ expression\ bool\u00C3\u00A9enne\ est\ vraie\ et\r\n\ affiche\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\r\n\ @param\ result\ le\ r\u00C3\u00A9sultat\ d'une\ expression\ bool\u00C3\u00A9enne\ \u00C3\u00A0\ v\u00C3\u00A9rifier\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment2.params=result\ description
+comment2.target=void\ assertFalse(boolean,\ java.lang.String)
+comment2.text=\r\n\ V\u00C3\u00A9rifie\ que\ le\ r\u00C3\u00A9sultat\ donn\u00C3\u00A9\ d'une\ expression\ bool\u00C3\u00A9enne\ est\ faux\ et\r\n\ affiche\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\r\n\ @param\ result\ le\ r\u00C3\u00A9sultat\ d'une\ expression\ bool\u00C3\u00A9enne\ \u00C3\u00A0\ v\u00C3\u00A9rifier\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment3.params=result\ expectedResult\ description
+comment3.target=void\ assertEquals(java.lang.Object,\ java.lang.Object,\ java.lang.String)
+comment3.text=\r\n\ V\u00C3\u00A9rifie\ que\ le\ r\u00C3\u00A9sultat\ obtenu\ est\ \u00C3\u00A9gal\ au\ r\u00C3\u00A9sultat\ attendu\ et\ affiche\r\n\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\r\n\ \r\n\ Le\ test\ d'\u00C3\u00A9galit\u00C3\u00A9\ utilise\ la\ m\u00C3\u00A9thode\ "egale"\ si\ elle\ est\ d\u00C3\u00A9finie\ dans\ la\r\n\ classe\ dont\ les\ deux\ r\u00C3\u00A9sultats\ sont\ instances,\ ou\ la\ m\u00C3\u00A9thode\ "equals"\r\n\ sinon.\r\n\ \r\n\ L'affichage\ utilise\ la\ m\u00C3\u00A9thode\ "versChaine"\ si\ elle\ est\ d\u00C3\u00A9finie\ dans\ la\r\n\ classe\ dont\ les\ deux\ r\u00C3\u00A9sultats\ sont\ instances,\ ou\ la\ m\u00C3\u00A9thode\ "toString"\r\n\ sinon.\r\n\ \r\n\ @param\ result\ le\ r\u00C3\u00A9sultat\ obtenu\r\n\ @param\ expectedResult\ le\ r\u00C3\u00A9sultat\ attendu\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment4.params=result\ expectedResult\ description
+comment4.target=void\ assertNotEquals(java.lang.Object,\ java.lang.Object,\ java.lang.String)
+comment4.text=\r\n\ V\u00C3\u00A9rifie\ que\ le\ r\u00C3\u00A9sultat\ obtenu\ n'est\ pas\ \u00C3\u00A9gal\ au\ r\u00C3\u00A9sultat\ attendu\ et\ affiche\r\n\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\r\n\ \r\n\ Le\ test\ d'\u00C3\u00A9galit\u00C3\u00A9\ utilise\ la\ m\u00C3\u00A9thode\ "egale"\ si\ elle\ est\ d\u00C3\u00A9finie\ dans\ la\r\n\ classe\ dont\ les\ deux\ r\u00C3\u00A9sultats\ sont\ instances,\ ou\ la\ m\u00C3\u00A9thode\ "equals"\r\n\ sinon.\r\n\ \r\n\ L'affichage\ utilise\ la\ m\u00C3\u00A9thode\ "versChaine"\ si\ elle\ est\ d\u00C3\u00A9finie\ dans\ la\r\n\ classe\ dont\ les\ deux\ r\u00C3\u00A9sultats\ sont\ instances,\ ou\ la\ m\u00C3\u00A9thode\ "toString"\r\n\ sinon.\r\n\ \r\n\ @param\ result\ le\ r\u00C3\u00A9sultat\ obtenu\r\n\ @param\ expectedResult\ le\ r\u00C3\u00A9sultat\ attendu\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment5.params=runnable\ description
+comment5.target=void\ assertError(java.lang.Runnable,\ java.lang.String)
+comment5.text=\r\n\ V\u00C3\u00A9rifie\ que\ l'ex\u00C3\u00A9cution\ d'une\ bloc\ d'instructions\ conduit\ \u00C3\u00A0\ une\ erreur\ et\r\n\ affiche\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\r\n\ @param\ runnable\ le\ bloc\ d'instructions\ \u00C3\u00A0\ ex\u00C3\u00A9cuter\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment6.params=runnable\ description
+comment6.target=void\ assertNoError(java.lang.Runnable,\ java.lang.String)
+comment6.text=\r\n\ V\u00C3\u00A9rifie\ que\ l'ex\u00C3\u00A9cution\ d'une\ bloc\ d'instructions\ ne\ conduit\ pas\ \u00C3\u00A0\ une\ erreur\ et\r\n\ affiche\ dans\ la\ console\ le\ bilan\ de\ cette\ v\u00C3\u00A9rification.\ Cette\ m\u00C3\u00A9thode\ v\u00C3\u00A9rifie\ que\ le\r\n\ code\ est\ "prot\u00C3\u00A9g\u00C3\u00A9"\ des\ lev\u00C3\u00A9es\ d'exceptions.\r\n\ @param\ runnable\ le\ bloc\ d'instructions\ \u00C3\u00A0\ ex\u00C3\u00A9cuter\r\n\ @param\ description\ la\ description\ du\ test\r\n
+comment7.params=object1\ object2
+comment7.target=boolean\ equals(java.lang.Object,\ java.lang.Object)
+comment8.params=object
+comment8.target=java.lang.String\ toString(java.lang.Object)
+comment9.params=passed\ message
+comment9.target=void\ printResult(boolean,\ java.lang.String)
+numComments=10

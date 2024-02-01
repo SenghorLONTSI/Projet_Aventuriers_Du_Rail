@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Ville
+comment0.text=\r\n\ La\ classe\ Ville\ repr\u00C3\u00A9sente\ une\ ville\ du\ jeu\ des\ Aventuriers\ du\ Rail.\r\n\ Une\ ville\ dispose\ d'un\ nom,\ d'une\ abscisse\ et\ d'une\ ordonn\u00C3\u00A9e\ pour\ l'affichage\r\n\ sur\ la\ carte.\r\n\ @since\ Incr\u00C3\u00A9ment\ 1\r\n\ @ACOMPLETER\r\n
+comment1.params=nom\ x\ y
+comment1.target=Ville(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=java.lang.String\ getNom()
+comment5.params=
+comment5.target=java.lang.String\ versChaine()
+numComments=6

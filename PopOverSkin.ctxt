@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PopOverSkin
+comment1.params=popOver
+comment1.target=PopOverSkin(PopOver)
+comment2.params=
+comment2.target=javafx.scene.Node\ getNode()
+comment3.params=
+comment3.target=PopOver\ getSkinnable()
+comment4.params=
+comment4.target=void\ dispose()
+comment5.params=
+comment5.target=javafx.scene.Node\ createCloseIcon()
+comment6.params=
+comment6.target=void\ createPathElements()
+comment7.params=
+comment7.target=javafx.stage.Window\ getPopupWindow()
+comment8.params=location
+comment8.target=boolean\ showArrow(ArrowLocation)
+comment9.params=
+comment9.target=void\ updatePath()
+numComments=10

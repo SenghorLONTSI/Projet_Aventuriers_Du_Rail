@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Plateau
+comment0.text=\r\n\ La\ classe\ Plateau\ repr\u00E9sente\ le\ plateau\ de\ jeu\ des\ Aventuriers\ du\ Rail.\r\n\ Il\ se\ compose\ d'un\ ensemble\ d'objets\ {@link\ Etat},\ d'un\ ensemble\ d'objets\ {@link\ Ville}\ et\ d'un\r\n\ ensemble\ d'objets\ {@link\ Route}.\r\n\ @since\ Incr\u00E9ment\ 1\r\n\ @ACOMPLETER\r\n
+comment1.params=
+comment1.target=Plateau()
+comment1.text=\ \r\n\ Cr\u00E9e\ le\ plateau\ de\ jeu\r\n
+comment2.params=
+comment2.target=Etat[]\ getEtats()
+comment2.text=\r\n\ ,\ @return\ les\ \u00E9tats\ du\ plateau\ de\ jeu\r\n\ @FOURNI\r\n
+comment3.params=
+comment3.target=Ville[]\ getVilles()
+comment4.params=
+comment4.target=Route[]\ getRoutes()
+comment5.params=
+comment5.target=void\ initialiseEtats()
+comment5.text=\r\n\ Initialise\ l'ensemble\ des\ \u00E9tats\ du\ jeu\ \u00E0\ partir\ des\ donn\u00E9es\ fournies\ (\r\n\ {@link\ Donnees\#ETATS})\ Les\ donn\u00E9es\ utilis\u00E9es\ sont\ transform\u00E9es\ pour\r\n\ isoler\ le\ nom\ de\ l'\u00E9tat\ et\ son\ "contour".\r\n\ @FOURNI\r\n
+comment6.params=
+comment6.target=void\ initialiseVilles()
+comment7.params=nom
+comment7.target=Ville\ rechercheVille(java.lang.String)
+comment8.params=
+comment8.target=void\ initialiseRoutes()
+comment9.params=nomRoute
+comment9.target=Route\ rechercheRoute(java.lang.String)
+numComments=10

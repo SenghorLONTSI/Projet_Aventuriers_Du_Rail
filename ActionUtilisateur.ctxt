@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ActionUtilisateur
+comment0.text=\r\n\ La\ classe\ ActionUtilisateur\ est\ utilis\u00C3\u00A9e\ pour\ r\u00C3\u00A9cup\u00C3\u00A9rer\ les\ actions\r\n\ effectu\u00C3\u00A9es\ par\ le\ joueur\ et\ les\ donn\u00C3\u00A9es\ correspondantes.\ L'action\ de\r\n\ l'utilisateur\ est\ identifi\u00C3\u00A9e\ par\ une\ valeur\ de\ l'\u00C3\u00A9num\u00C3\u00A9ration\r\n\ {@link\ TypeActionUtilisateur}\ et\ est\ li\u00C3\u00A9e\ \u00C3\u00A0\ une\ valeur,\ appel\u00C3\u00A9e\r\n\ {@code\ param\u00C3\u00A8tre}\ sous\ la\ forme\ d'une\ cha\u00C3\u00AEne\ de\ caract\u00C3\u00A8res.\r\n
+comment1.params=type\ param
+comment1.target=ActionUtilisateur(TypeActionUtilisateur,\ java.lang.String)
+comment1.text=\r\n\ Cr\u00C3\u00A9e\ une\ action\ utilisateur\r\n\ @param\ type\ le\ type\ de\ l'action\r\n\ @param\ param\ les\ donn\u00C3\u00A9es\ li\u00C3\u00A9es\ \u00C3\u00A0\ l'action\r\n
+comment2.params=
+comment2.target=TypeActionUtilisateur\ getType()
+comment3.params=
+comment3.target=java.lang.String\ getParametre()
+numComments=4

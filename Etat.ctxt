@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Etat
+comment0.text=\r\n\ La\ classe\ Etat\ repr\u00C3\u00A9sente\ un\ \u00C3\u00A9tat\ des\ Etats-Unis\ \u00C3\u00A0\ dessiner\ sur\ le\ plateau\ de\ jeu.\r\n\ Chaque\ \u00C3\u00A9tat\ dispose\ d'un\ nom\ et\ d'un\ contour\ (ensemble\ de\ coordonn\u00C3\u00A9es\ permettant\ \r\n\ de\ dessiner\ la\ carte).\r\n\ @since\ Incr\u00C3\u00A9ment\ 1\r\n\ @FOURNI\r\n
+comment1.params=nom\ contour
+comment1.target=Etat(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Cr\u00C3\u00A9e\ un\ \u00C3\u00A9tat\r\n\ @param\ nom\ le\ nom\ de\ l'\u00C3\u00A9tat\r\n\ @param\ contour\ les\ coordonn\u00C3\u00A9es\ des\ points\ \u00C3\u00A0\ dessiner\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\r\n\ @return\ le\ nom\ de\ l'\u00C3\u00A9tat\r\n\ @FOURNI\r\n
+comment3.params=
+comment3.target=java.lang.String\ getContour()
+comment3.text=\r\n\ @return\ les\ coordonn\u00C3\u00A9es\ des\ points\ permettant\ de\ dessiner\ l'\u00C3\u00A9tat\r\n\ @FOURNI\r\n
+numComments=4

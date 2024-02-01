@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestPlateauRechercheRoute
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testeRechercheRoute()
+comment2.text=\r\n\ @since\ Incr\u00C3\u00A9ment\ 1\r\n\ @EXTENSION\r\n
+comment3.params=
+comment3.target=void\ testeRechercheRouteInexistante()
+comment3.text=\r\n\ @since\ Incr\u00C3\u00A9ment\ 1\r\n\ @EXTENSION\r\n
+numComments=4

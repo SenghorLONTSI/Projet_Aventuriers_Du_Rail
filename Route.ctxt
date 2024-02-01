@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Route
+comment0.text=\r\n\ La\ classe\ Route\ repr\u00C3\u00A9sente\ une\ route\ dans\ le\ jeu\ des\ Aventuriers\ du\ Rail.\r\n\ Une\ route\ dispose\ d'une\ ville\ de\ d\u00C3\u00A9part,\ d'une\ ville\ d'arriv\u00C3\u00A9e\ et\ d'une\ couleur.\r\n\ A\ partir\ de\ l'incr\u00C3\u00A9ment\ 3,\ une\ route\ pourra\ \u00C3\u00AAtre\ poss\u00C3\u00A9d\u00C3\u00A9e\ par\ un\ joueur.\r\n\ @since\ Incr\u00C3\u00A9ment\ 1\r\n\ @ACOMPLETER\r\n
+comment1.params=villeDepart\ VilleArrivee\ couleur
+comment1.target=Route(Ville,\ Ville,\ java.lang.String)
+comment10.params=proprietaire
+comment10.target=void\ setProprietaire(Joueur)
+comment2.params=
+comment2.target=java.lang.String\ getCouleur()
+comment3.params=
+comment3.target=Ville\ getVilleDepart()
+comment4.params=
+comment4.target=Ville\ getVilleArrivee()
+comment5.params=
+comment5.target=java.lang.String\ getNom()
+comment6.params=
+comment6.target=int\ getLongueur()
+comment7.params=
+comment7.target=java.lang.String\ versChaine()
+comment8.params=
+comment8.target=int\ getNombrePoints()
+comment9.params=
+comment9.target=Joueur\ getProprietaire()
+numComments=11

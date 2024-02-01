@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project modifiable="false">
+    <java name="ActionUtilisateur.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="Crayon.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="Donnees.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="Etat.java" type="source" status="visible" expected="0" succedded="-1"/>
+    <java name="Fenetre.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="IHM.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="Jeu.java" type="program" status="editable" expected="0" succedded="-1"/>
+    <java name="Plateau.java" type="source" status="editable" expected="0" succedded="-1"/>
+    <java name="Route.java" type="source" status="editable" expected="0" succedded="-1"/>
+    <java name="TypeActionUtilisateur.java" type="library" status="visible" expected="0" succedded="-1"/>
+    <java name="Ville.java" type="source" status="editable" expected="0" succedded="-1"/>
+    <java name="Test.java" type="library" status="hidden" expected="0" succedded="-1"/>
+    <java name="TestPlateauInitialisationVille.java" type="test" status="visible" expected="4" succedded="-1"/>
+    <java name="TestPlateauInitialisationRoute.java" type="test" status="visible" expected="4" succedded="4"/>
+    <java name="TestPlateauRechercheVille.java" type="test" status="visible" expected="2" succedded="-1"/>
+    <java name="TestPlateauRechercheRoute.java" type="test" status="visible" expected="2" succedded="-1"/>
+    <java name="TestRouteAffichage.java" type="test" status="visible" expected="1" succedded="-1"/>
+    <java name="TestRouteInitialisation.java" type="test" status="visible" expected="7" succedded="-1"/>
+    <java name="TestVilleInitialisation.java" type="test" status="visible" expected="3" succedded="-1"/>
+    <java name="TestVilleAffichage.java" type="test" status="visible" expected="1" succedded="-1"/>
+    <java name="ArrowLocation.java" type="library" status="hidden" expected="0" succedded="-1"/>
+    <java name="Localization.java" type="library" status="hidden" expected="0" succedded="-1"/>
+    <java name="PopOver.java" type="library" status="hidden" expected="0" succedded="-1"/>
+    <java name="PopOverSkin.java" type="library" status="hidden" expected="0" succedded="-1"/>
+    <java name="style.css" type="resource" status="hidden" expected="0" succedded="-1"/>
+    <java name="controlsfx.properties" type="resource" status="hidden" expected="0" succedded="-1"/>
+    <java name="popover.css" type="resource" status="hidden" expected="0" succedded="-1"/>
+    <java name="checkPI.xml" type="resource" status="hidden" expected="0" succedded="-1"/>
+</project>

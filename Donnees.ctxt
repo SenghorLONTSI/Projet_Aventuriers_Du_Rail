@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Donnees
+comment0.text=\r\n\ la\ classe\ Donnees\ contient\ les\ informations\ n\u00C3\u00A9cessaires\ \u00C3\u00A0\ la\ cr\u00C3\u00A9ation\ du\r\n\ plateau\ de\ jeu.\ On\ y\ retrouve\ les\ couleurs\ des\ cartes\ wagon,\ les\ couleurs\ de\r\n\ joueurs,\ les\ objectifs\ du\ jeu\ (cartes\ "destination"),\ la\ liste\ des\ villes\r\n\ avec\ leurs\ coordonn\u00C3\u00A9es,\ la\ liste\ des\ routes\ avec\ leur\ couleur\ et\ la\ liste\ des\r\n\ \u00C3\u00A9tats\ avec\ les\ coordonn\u00C3\u00A9es\ des\ points\ permettant\ de\ dessiner\ la\ carte\ des\r\n\ Etats-Unis.\r\n
+numComments=1
